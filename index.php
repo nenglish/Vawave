@@ -43,7 +43,7 @@
               <a class="page-scroll" href="#contact"><i class="fa fa-phone-square"></i> Contact</a>
             </li>
           </ul>
-          <form class="navbar-form navbar-left" role="search">
+          <form class="navbar-form navbar-right" role="search">
             <div class="form-group">
               <input type="text" class="form-control" placeholder="Search Something...">
             </div>
