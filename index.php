@@ -10,6 +10,8 @@
     <![endif]-->
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-  </body
+    <script src="https://ironsummitmedia.github.io/startbootstrap-scrolling-nav/js/jquery.easing.min.js"></script>
+    <script src="https://ironsummitmedia.github.io/startbootstrap-scrolling-nav/js/scrolling-nav.js"></script>
+  </body>
 </html>
 
