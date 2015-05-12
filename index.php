@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/sandstone/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://ironsummitmedia.github.io/startbootstrap-scrolling-nav/css/scrolling-nav.css">
     <meta name="keywords" content="NoData">
     <meta name="description" content="NoData">
     <meta name="author" content="nenglish | Nicholas English">
