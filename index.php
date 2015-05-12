@@ -57,13 +57,13 @@
         </div>
       </div>
     </nav>
-    <header id="page-top">
+    <header id="page-top" style="margin-top:350px;">
       <div class="header-content">
         <div class="header-content-inner">
-          <h1>Your Favorite Source of Free Bootstrap Themes</h1>
+          <center><h1>Your Favorite Source of Free Bootstrap Themes</h1></center>
           <hr>
-          <p></p>
-          <a href="./news" class="btn btn-primary btn-xl page-scroll">Read More</a>
+          <center><p></p></center>
+          <center><a href="./news" class="btn btn-primary btn-xl page-scroll">Read More</a></center>
         </div>
       </div>
     </header>
