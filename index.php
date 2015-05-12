@@ -52,24 +52,24 @@
           <ul class="nav navbar-nav navbar-right">
             <li>
               <a type="button" data-toggle="modal" data-target="#connect"><i class="fa fa-sign-in"></i> Connect Now</a>
-              <div class="modal fade" id="connect" role="dialog" aria-labelledby="login" aria-hidden="true">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                      <h4 class="modal-title" id="login">Login</h4>
-                    </div>
-                    <div class="modal-body">
-                      ...
-                    </div>
-                  </div>
-                </div>
-              </div>
             </li>
           </ul>
         </div>
       </div>
     </nav>
+    <div class="modal fade" id="connect" role="dialog" aria-labelledby="login" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="login">Login</h4>
+          </div>
+          <div class="modal-body">
+            ...
+          </div>
+        </div>
+      </div>
+    </div>
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="https://ironsummitmedia.github.io/startbootstrap-scrolling-nav/js/jquery.easing.min.js"></script>
