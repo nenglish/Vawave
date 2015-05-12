@@ -13,7 +13,7 @@
   </head>
   <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="https://ironsummitmedia.github.io/startbootstrap-scrolling-nav/js/jquery.easing.min.js"></script>
     <script src="https://ironsummitmedia.github.io/startbootstrap-scrolling-nav/js/scrolling-nav.js"></script>
   </body>
