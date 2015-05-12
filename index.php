@@ -57,6 +57,16 @@
         </div>
       </div>
     </nav>
+    <header id="page-top">
+      <div class="header-content">
+        <div class="header-content-inner">
+          <h1>Your Favorite Source of Free Bootstrap Themes</h1>
+          <hr>
+          <p></p>
+          <a href="./news" class="btn btn-primary btn-xl page-scroll">Read More</a>
+        </div>
+      </div>
+    </header>
     <div class="modal fade" id="connect" role="dialog" aria-labelledby="login" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
