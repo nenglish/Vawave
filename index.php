@@ -34,13 +34,24 @@
               <a class="page-scroll" href="#page-top"></a>
             </li>
             <li>
-              <a class="page-scroll" href="#about">About</a>
+              <a class="page-scroll" href="#about"><i class="fa fa-leaf"></i> About</a>
             </li>
             <li>
-              <a class="page-scroll" href="#services">Services</a>
+              <a class="page-scroll" href="#services"><i class="fa fa-laptop"></i> Services</a>
             </li>
             <li>
-              <a class="page-scroll" href="#contact">Contact</a>
+              <a class="page-scroll" href="#contact"><i class="fa fa-phone-square"></i> Contact</a>
+            </li>
+          </ul>
+          <form class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Search Something...">
+            </div>
+            <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+          </form>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="#"><i class="fa fa-sign-in"></i> Connect Now</a>
             </li>
           </ul>
         </div>
